@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pure": "^2.85.0",
+    "purecss": "^1.0.0"
+  }
+}
